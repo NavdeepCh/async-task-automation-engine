@@ -171,4 +171,4 @@ MIT License - feel free to use this project
 
 ## Author
 
-Navdeep Chhonkar
+Navdeep Chapala
