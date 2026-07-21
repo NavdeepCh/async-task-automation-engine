@@ -1,0 +1,27 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+*.pom
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Gradle
+build/
+.gradle/
+
+# Spring Boot
+*.log
+
+# H2 Database
+*.h2.db
+
+# Dependencies
+dependency-reduced-pom.xml
