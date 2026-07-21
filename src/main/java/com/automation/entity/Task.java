@@ -42,4 +42,7 @@ public class Task {
 
     @Column(nullable = false)
     private String workflowType;
+
+    @Column(nullable = true)
+    private String environment;
 }
